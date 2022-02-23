@@ -1,4 +1,4 @@
-# FindNumPaths
+# Number of pathes in an n*n grid
 
 Project Euler 15: Routes through a 20×20 grid
 
